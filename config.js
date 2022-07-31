@@ -5,60 +5,60 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281326024103'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281326024103'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281326024103'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6282252285143'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6282252285143'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6282252285143'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𝙶𝚊𝚊𝚛𝚊 𝚂𝚎𝚝𝚢𝚊𝚠𝚊𝚗'
-global.numberowner = '6281326024103' //ganti pakai nomor mu
-global.instagram = 'https://instagram.com/gaara_xploite' //ganti pakai Instagram mu
-global.github = 'https://github.com/gaara-ofc' //ganti aja pakai githubmu
-global.tt = 'https://vt.tiktok.com/gakpunya' //ganti aja pakai tiktok mu
+global.nameowner = 'ʀʏᴀɴɴ-'
+global.numberowner = '6282252285143' //ganti pakai nomor mu
+global.instagram = 'https://instagram.com/farlight84_official' //ganti pakai Instagram mu
+global.github = 'https://github.com/RyanStore' //ganti aja pakai githubmu
+global.tt = 'https://vt.tiktok.com/upinipin.official' //ganti aja pakai tiktok mu
 global.sc = 'https://youtube.com/gaaraofc' //jngn ganti hargai creator
 global.ss = 'https://youtube.com/gaaraofc' //jngn ganti hargai creator
-global.sss = 'https://instagram.com/gaara_xploite' //jngn ganti hargai creator
-global.yt = 'https://youtube.com/gaaraofc'
-global.dana = '081326024103' //ganti pakai nomor dana mu
-global.pulsa = '081326024103' //ganti pakai nomor pulsa mu
-global.gopay = '082331325657' //ganti pakai nomor Gopay mu
+global.sss = 'https://instagram.com/farlight84_official' //jngn ganti hargai creator
+global.yt = 'https://youtube.com/upinipin'
+global.dana = '082350496532' //ganti pakai nomor dana mu
+global.pulsa = '082350496532' //ganti pakai nomor pulsa mu
+global.gopay = '082252285143' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙𝐆𝐚𝐚𝐫𝐚 𝐌𝐃⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm' //ganti pakai grup mu
-global.web = 'https://instagram.com/gaara_xploite' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/gaara_xploite' //ganti pakai Instagram mu
-global.saweria = 'https://saweria.co/gaaraxyz' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6281326024103' //ganti jadi nomor mu
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
+global.namebot = '⸙ ʏᴀɴɴ-ᴍᴅ' //ganti jadiin nama bot mu
+global.gc = 'https://chat.whatsapp.com/Eg4Rhkq0NBtBMWyhk1IOnb' //ganti pakai grup mu
+global.web = 'https://yann-md-official.blogspot.com/?m=1' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/farlight84_official' //ganti pakai Instagram mu
+global.saweria = 'https://saweria.co/JbYannStore' //bebas ganti aja pakai apa
+global.nomer = 'https://wa.me/6282252285143' //ganti jadi nomor mu
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 5.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 10.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 2.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/8db3a7b1c5953c22c8d89.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8db3a7b1c5953c22c8d89.jpg' //ini juga ganti pakai foto bot mu
-global.fotonya3 = 'https://telegra.ph/file/84af096613b52de22c9b6.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/84af096613b52de22c9b6.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/d9059c5e37655baee2e4c.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/d9059c5e37655baee2e4c.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/d9059c5e37655baee2e4c.jpg' //ini juga ganti
+global.fotonya1 = 'https://telegra.ph/file/3a9ea988efa82162a4888.png' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png' //ini juga ganti pakai foto bot mu
+global.fotonya3 = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/05b17ae14e9da068d3cc0.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png' //ini juga ganti
 global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/518ed653e716ef72e91e9.jpg' //ganti pakai poto payment atau apa
+global.donasi = 'https://telegra.ph/file/3ad33903312e441090a7c.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙𝐆𝐚𝐚𝐫𝐚 𝐌𝐃⳹ ❋ཻུ۪۪'
+global.wm = '⸙ 𝒀𝒂𝒏𝒏-𝑴𝒅'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by 𝙶𝚊𝚊𝚛𝚊 𝚂𝚎𝚝𝚢𝚊𝚠𝚊𝚗'
-global.wm3 = 'ᯤ ī.am/𝘨𝘢𝘢𝘳𝘢 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by 𝑹𝒚𝒂𝒏𝒏-'
+global.wm3 = 'ᯤ ī.am/Yann'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
+global.wait = 'sᴇᴅᴀɴɢ ᴅɪ ᴘʀᴏsᴇs. . .'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = '𝐆𝐚𝐚𝐫𝐚 𝐌𝐃'
-global.author = '@gaara_xploite'
+global.stiker_wait = 'ᴡᴀɪᴛ..'
+global.packname = 'ʏᴀɴɴ-ᴍᴅ'
+global.author = 'ᴏᴡɴᴇʀ : 082252285143 (ʀʏᴀɴ)\nᴊᴀɴ ʟᴜᴘᴀ sᴠ ʏᴏ'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix

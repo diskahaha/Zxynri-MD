@@ -10,55 +10,55 @@ global.mods = ['6282252285143'] //ganti pakai nomormu biar bot berfungsi
 global.prems = ['6282252285143'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ʀʏᴀɴɴ-'
+global.nameowner = 'ᴄᴇᴏ ᴄʀᴀᴄᴋᴡᴘ'7'
 global.numberowner = '6282252285143' //ganti pakai nomor mu
-global.instagram = 'https://instagram.com/farlight84_official' //ganti pakai Instagram mu
+global.instagram = 'https://instagram.com/yann_kullbet7' //ganti pakai Instagram mu
 global.github = 'https://github.com/RyanStore' //ganti aja pakai githubmu
-global.tt = 'https://vt.tiktok.com/upinipin.official' //ganti aja pakai tiktok mu
-global.sc = 'https://youtube.com/gaaraofc' //jngn ganti hargai creator
-global.ss = 'https://youtube.com/gaaraofc' //jngn ganti hargai creator
-global.sss = 'https://instagram.com/farlight84_official' //jngn ganti hargai creator
-global.yt = 'https://youtube.com/upinipin'
+global.tt = '-' //ganti aja pakai tiktok mu
+global.sc = 'https://wa.me/6282252285143' //jngn ganti hargai creator
+global.ss = 'https://wa.me/6282252285143' //jngn ganti hargai creator
+global.sss = 'https:/wa.me/6282252285143' //jngn ganti hargai creator
+global.yt = 'https://youtube.com/channel/'
 global.dana = '082350496532' //ganti pakai nomor dana mu
-global.pulsa = '082350496532' //ganti pakai nomor pulsa mu
+global.pulsa = '082252285143/082350496532' //ganti pakai nomor pulsa mu
 global.gopay = '082252285143' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '⸙ ʏᴀɴɴ-ᴍᴅ' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/Eg4Rhkq0NBtBMWyhk1IOnb' //ganti pakai grup mu
-global.web = 'https://yann-md-official.blogspot.com/?m=1' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/farlight84_official' //ganti pakai Instagram mu
-global.saweria = 'https://saweria.co/JbYannStore' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6282252285143' //ganti jadi nomor mu
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 5.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 10.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 2.000\nMAKSIMAL 1 GRUP'
+global.namebot = '⸙ ᴄʀᴀᴄᴋᴡᴘ ʙᴏᴛ' //ganti jadiin nama bot mu
+global.gc = 'https://chat.whatsapp.com/D1ddCVDH6BYEO1D4iEd3C7' //ganti pakai grup mu
+global.web = 'https://instagram.com/yann_kullbet7' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/yann_kullbet7' //ganti pakai Instagram mu
+global.saweria = 'https://saweria.co/zifabotz123' //bebas ganti aja pakai apa
+global.nomer = 'https://wa.me/6285787476829' //ganti jadi nomor mu
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/3a9ea988efa82162a4888.png' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png' //ini juga ganti pakai foto bot mu
-global.fotonya3 = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/05b17ae14e9da068d3cc0.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png' //ini juga ganti
+global.fotonya1 = 'https://telegra.ph/file/4d937c6451cb8893e923f.png' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/4d937c6451cb8893e923f.png' //ini juga ganti pakai foto bot mu
+global.fotonya3 = 'https://telegra.ph/file/4d937c6451cb8893e923f.png' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/4d937c6451cb8893e923f.png' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/4d937c6451cb8893e923f.png' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/3f504ed94631ffd079db0.png' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/3f504ed94631ffd079db0.png' //ini juga ganti
 global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/3ad33903312e441090a7c.jpg' //ganti pakai poto payment atau apa
+global.donasi = 'https://telegra.ph/file/f64b8b8de2d22b7b40562.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '⸙ 𝒀𝒂𝒏𝒏-𝑴𝒅'
+global.wm = '⸙ ᴄʀᴀᴄᴋᴡᴘ-ʙᴏᴛᴢ'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by 𝑹𝒚𝒂𝒏𝒏-'
-global.wm3 = 'ᯤ ī.am/Yann'
+global.wm2 = 'ᯤ ᴄʀᴇᴀᴛᴏʀ ʙʏ ᴄᴇᴏ ᴄʀᴀᴄᴋᴡᴘ'
+global.wm3 = 'ᯤ ᴄʀᴀᴄᴋᴡᴘ ʙᴏᴛᴢ ɪᴅ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/4bbb29732ee8fcdbbea37.png'
+global.media = 'https://telegra.ph/file/4d937c6451cb8893e923f.png'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = 'sᴇᴅᴀɴɢ ᴅɪ ᴘʀᴏsᴇs. . .'
+global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'ᴡᴀɪᴛ..'
-global.packname = 'ʏᴀɴɴ-ᴍᴅ'
-global.author = 'ᴏᴡɴᴇʀ : 082252285143 (ʀʏᴀɴ)\nᴊᴀɴ ʟᴜᴘᴀ sᴠ ʏᴏ'
+global.stiker_wait = '⏳ Stiker sedang Proses'
+global.packname = 'ᴄʀᴀᴄᴋ ʙᴏᴛᴢ'
+global.author = '@ ᴄᴇᴏ ᴄʀᴀᴄᴋᴡᴘ'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix

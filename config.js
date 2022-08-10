@@ -5,20 +5,20 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281296347598','62821220876725'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281296347598','62821220876725'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281296347598','62821220876725'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['62821220876725'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['62821220876725'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['62821220876725'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'7'
-global.numberowner = '6281296347598','62821220876725' //ganti pakai nomor mu
-global.instagram = 'https://instagram.com/F' //ganti pakai Instagram mu
-global.github = 'https://github.com/F' //ganti aja pakai githubmu
+global.nameowner = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
+global.numberowner = '62821220876725' //ganti pakai nomor mu
+global.instagram = '-' //ganti pakai Instagram mu
+global.github = '-' //ganti aja pakai githubmu
 global.tt = '-' //ganti aja pakai tiktok mu
 global.sc = 'https://wa.me/62821220876725' //jngn ganti hargai creator
 global.ss = 'https://wa.me/62821220876725' //jngn ganti hargai creator
 global.sss = 'https:/wa.me/62821220876725' //jngn ganti hargai creator
-global.yt = 'https://youtube.com/channel/'
+global.yt = '-'
 global.dana = '0821220876725' //ganti pakai nomor dana mu
 global.pulsa = '0821220876725/082350496532' //ganti pakai nomor pulsa mu
 global.gopay = '0821220876725' //ganti pakai nomor Gopay mu
@@ -26,9 +26,9 @@ global.gopay = '0821220876725' //ganti pakai nomor Gopay mu
 //=============『 Info Bot 』=================//
 global.namebot = '⸙ 𝕭𝖔𝖙 • Andii ༢࿔ྀ' //ganti jadiin nama bot mu
 global.gc = 'https://chat.whatsapp.com/BtgB89Js9S9Ckmi3hOWOXG' //ganti pakai grup mu
-global.web = 'https://instagram.com/F' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/F' //ganti pakai Instagram mu
-global.saweria = 'https://saweria.co/F' //bebas ganti aja pakai apa
+global.web = '-' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = '-' //ganti pakai Instagram mu
+global.saweria = '-' //bebas ganti aja pakai apa
 global.nomer = 'https://wa.me/62821220876725' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
